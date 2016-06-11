@@ -1,0 +1,7 @@
+C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\SeqList\SeqListTests\bin\Debug\SeqListTests.dll
+C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\SeqList\SeqListTests\bin\Debug\SeqListTests.pdb
+C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\SeqList\SeqListTests\bin\Debug\SeqList.exe
+C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\SeqList\SeqListTests\bin\Debug\SeqList.pdb
+C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\SeqList\SeqListTests\obj\Debug\SeqListTests.csprojResolveAssemblyReference.cache
+C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\SeqList\SeqListTests\obj\Debug\SeqListTests.dll
+C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\SeqList\SeqListTests\obj\Debug\SeqListTests.pdb

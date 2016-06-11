@@ -1,0 +1,6 @@
+c:\users\aurorauser\documents\visual studio 2015\Projects\SeqList\SeqList\bin\Debug\SeqList.exe.config
+c:\users\aurorauser\documents\visual studio 2015\Projects\SeqList\SeqList\bin\Debug\SeqList.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\SeqList\SeqList\bin\Debug\SeqList.pdb
+c:\users\aurorauser\documents\visual studio 2015\Projects\SeqList\SeqList\obj\Debug\SeqList.csprojResolveAssemblyReference.cache
+c:\users\aurorauser\documents\visual studio 2015\Projects\SeqList\SeqList\obj\Debug\SeqList.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\SeqList\SeqList\obj\Debug\SeqList.pdb

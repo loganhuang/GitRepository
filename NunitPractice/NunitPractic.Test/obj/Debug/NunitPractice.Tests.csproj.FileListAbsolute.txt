@@ -1,0 +1,9 @@
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\obj\Debug\NunitPractice.Tests.csprojResolveAssemblyReference.cache
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\NunitPractic.Test.dll
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\NunitPractic.Test.pdb
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\nunit.framework.dll
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\NunitPractice.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\NunitPractice.pdb
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\nunit.framework.xml
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\obj\Debug\NunitPractic.Test.dll
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\obj\Debug\NunitPractic.Test.pdb

@@ -1,0 +1,5 @@
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractice\bin\Debug\NunitPractice.exe.config
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractice\bin\Debug\NunitPractice.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractice\bin\Debug\NunitPractice.pdb
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractice\obj\Debug\NunitPractice.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\NunitPractice\NunitPractice\obj\Debug\NunitPractice.pdb

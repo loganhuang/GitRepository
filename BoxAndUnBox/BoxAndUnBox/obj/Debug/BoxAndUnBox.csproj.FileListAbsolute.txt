@@ -1,0 +1,6 @@
+c:\users\aurorauser\documents\visual studio 2015\Projects\BoxAndUnBox\BoxAndUnBox\bin\Debug\BoxAndUnBox.exe.config
+c:\users\aurorauser\documents\visual studio 2015\Projects\BoxAndUnBox\BoxAndUnBox\bin\Debug\BoxAndUnBox.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\BoxAndUnBox\BoxAndUnBox\bin\Debug\BoxAndUnBox.pdb
+c:\users\aurorauser\documents\visual studio 2015\Projects\BoxAndUnBox\BoxAndUnBox\obj\Debug\BoxAndUnBox.csprojResolveAssemblyReference.cache
+c:\users\aurorauser\documents\visual studio 2015\Projects\BoxAndUnBox\BoxAndUnBox\obj\Debug\BoxAndUnBox.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\BoxAndUnBox\BoxAndUnBox\obj\Debug\BoxAndUnBox.pdb

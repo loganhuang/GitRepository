@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="0" result="Failed" label="Invalid" total="0" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.2.1.0" clr-version="4.0.30319.42000" start-time="2016-06-11 03:28:16Z" end-time="2016-06-11 03:28:16Z" duration="0.016068">
+  <command-line><![CDATA[nunit3-console.exe  C:\Users\aurorauser\Documents\visual studio 2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\NunitPractic.Test.dll]]></command-line>
+  <test-suite type="Assembly" id="1-1" name="visual" fullname="C:\Users\aurorauser\Documents\visual" testcasecount="0" runstate="NotRunnable" result="Failed" label="Invalid">
+    <properties>
+      <property name="_SKIPREASON" value="File not found: C:\Users\aurorauser\Documents\visual" />
+    </properties>
+    <reason>
+      <message>File not found: C:\Users\aurorauser\Documents\visual</message>
+    </reason>
+  </test-suite>
+  <test-suite type="Assembly" id="2-1" name="studio" fullname="C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\NunitPractice\packages\NUnit.ConsoleRunner.3.2.1\tools\studio" testcasecount="0" runstate="NotRunnable" result="Failed" label="Invalid">
+    <properties>
+      <property name="_SKIPREASON" value="File not found: C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\NunitPractice\packages\NUnit.ConsoleRunner.3.2.1\tools\studio" />
+    </properties>
+    <reason>
+      <message>File not found: C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\NunitPractice\packages\NUnit.ConsoleRunner.3.2.1\tools\studio</message>
+    </reason>
+  </test-suite>
+  <test-suite type="Assembly" id="3-1" name="NunitPractic.Test.dll" fullname="C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\NunitPractice\packages\NUnit.ConsoleRunner.3.2.1\tools\2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\NunitPractic.Test.dll" testcasecount="0" runstate="NotRunnable" result="Failed" label="Invalid">
+    <properties>
+      <property name="_SKIPREASON" value="File not found: C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\NunitPractice\packages\NUnit.ConsoleRunner.3.2.1\tools\2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\NunitPractic.Test.dll" />
+    </properties>
+    <reason>
+      <message>File not found: C:\Users\aurorauser\Documents\Visual Studio 2015\Projects\NunitPractice\packages\NUnit.ConsoleRunner.3.2.1\tools\2015\Projects\NunitPractice\NunitPractic.Test\bin\Debug\NunitPractic.Test.dll</message>
+    </reason>
+  </test-suite>
+</test-run>
