@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="4a4b5840-3424-443a-b03e-7a56230fadd8" name="UMLClassDiagram1" linkedPackageId="4c3a10fd-4190-4d5a-889d-4991e4715f72" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="ff89c4df-30bb-477e-9034-ff69803ddf04" name="&lt;&lt;abstract&gt;&gt; Operation" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="22d52700-4fb5-4d13-9b67-2f05ab73a99e" />
+        <ownedAttributesInternal>
+          <property Id="97a2bd5d-c6f3-4112-84bd-d1dbc6100f11" name="NumberA" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="170cffa9-f9c9-4879-837e-3bfffb47fba5" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="5984cae4-a017-4de7-9469-b834a7dfb144" LastKnownName="Double" />
+            </type_NamedElement>
+          </property>
+          <property Id="899954d2-12f3-4c9e-9bc5-ee30f4474a36" name="NumberB" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="7296af48-7d6e-4c04-8f49-f8ebff6e882b" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="5984cae4-a017-4de7-9469-b834a7dfb144" LastKnownName="Double" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+        <ownedOperationsInternal>
+          <operation Id="6ea6cf73-53f7-40bb-b622-5f8de064b0e4" name="GetResult" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="cd6d104c-560d-40ab-b261-c6ed869eca09" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="d4592a8d-49fb-45c0-b686-ce6269dcbd8c" name="Add" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="4dc56eeb-e589-4511-afb6-1c2ca77cde85" />
+        <generalsInternal>
+          <generalization Id="52587313-1db1-4a2d-b8e4-4ac09c32c3ba" isSubstitutable="false">
+            <classMoniker Id="ff89c4df-30bb-477e-9034-ff69803ddf04" LastKnownName="&lt;&lt;abstract&gt;&gt; Operation" />
+            <elementDefinition Id="6ece790d-3846-4a8b-9d12-2070f2b04660" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="f0a3100e-4855-4504-b6dc-150babbaf3ce" name="Sub" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="2f593955-4a90-4cad-a66d-3c1695552a2e" />
+        <generalsInternal>
+          <generalization Id="f48f41a8-a9b2-4be5-a60d-eea1486faee3" isSubstitutable="false">
+            <classMoniker Id="ff89c4df-30bb-477e-9034-ff69803ddf04" LastKnownName="&lt;&lt;abstract&gt;&gt; Operation" />
+            <elementDefinition Id="1cfcd9af-a122-4095-82cf-de0f0afcf635" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="8d763b1b-35f5-4012-b1ed-605176dce0a4" name="Multiply" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="031099de-2d70-406d-b7e5-f110f6b4bdd3" />
+        <generalsInternal>
+          <generalization Id="dfd1ca4e-3bd4-44aa-a978-dcef1898c28d" isSubstitutable="false">
+            <classMoniker Id="ff89c4df-30bb-477e-9034-ff69803ddf04" LastKnownName="&lt;&lt;abstract&gt;&gt; Operation" />
+            <elementDefinition Id="799e34b3-e884-4060-872e-0d651e808db9" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="6d1751e0-e11b-4db2-8578-cc62f8517ac3" name="Division" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="174dcd35-eb5c-40fb-8869-c5e57f0e2a5d" />
+        <generalsInternal>
+          <generalization Id="9f4c0717-c7e2-4ec5-9ce8-9ad6c202d6ed" isSubstitutable="false">
+            <classMoniker Id="ff89c4df-30bb-477e-9034-ff69803ddf04" LastKnownName="&lt;&lt;abstract&gt;&gt; Operation" />
+            <elementDefinition Id="c0592642-72f6-47a6-bd73-44177f32c5ea" />
+          </generalization>
+        </generalsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <packageHasNamedElement>
+      <referencedType Id="5984cae4-a017-4de7-9469-b834a7dfb144" name="Double" isAbstract="false" isLeaf="false" cachedFullName="Double">
+        <elementDefinition Id="50628f7d-dc53-4d05-8437-fb392ba46737" />
+      </referencedType>
+    </packageHasNamedElement>
+    <logicalClassDesignerModelHasTypes>
+      <Interface Id="4d63ed6f-6ea4-42be-a588-4e56bf3b6063" name="Interface2" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="d09a5fb3-6144-4daa-9f5b-a888da8bad40" />
+      </Interface>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="4c3a10fd-4190-4d5a-889d-4991e4715f72" name="ModelingProject1">
+    <elementDefinition Id="5788b863-d64a-4841-a16b-3d66f5dcc5e8" />
+    <profileInstances>
+      <packageHasProfileInstances Id="ba459a97-5d43-4b69-a9c0-a0803fae0e16">
+        <profileInstance Id="6c945341-5d84-44c7-9632-ba8c660a8933" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="f7cdd5e0-48f2-46d0-b64b-5c233e7fa355">
+        <profileInstance Id="96c7c494-a6b4-4932-b15a-d42d89d2fb9c" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</logicalClassDesignerModel>

@@ -1,0 +1,6 @@
+c:\users\aurorauser\documents\visual studio 2015\Projects\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+c:\users\aurorauser\documents\visual studio 2015\Projects\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+c:\users\aurorauser\documents\visual studio 2015\Projects\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+c:\users\aurorauser\documents\visual studio 2015\Projects\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb

@@ -1,0 +1,6 @@
+c:\users\aurorauser\documents\visual studio 2015\Projects\SQLPractice\SQLPractice\bin\Debug\SQLPractice.exe.config
+c:\users\aurorauser\documents\visual studio 2015\Projects\SQLPractice\SQLPractice\bin\Debug\SQLPractice.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\SQLPractice\SQLPractice\bin\Debug\SQLPractice.pdb
+c:\users\aurorauser\documents\visual studio 2015\Projects\SQLPractice\SQLPractice\obj\Debug\SQLPractice.csprojResolveAssemblyReference.cache
+c:\users\aurorauser\documents\visual studio 2015\Projects\SQLPractice\SQLPractice\obj\Debug\SQLPractice.exe
+c:\users\aurorauser\documents\visual studio 2015\Projects\SQLPractice\SQLPractice\obj\Debug\SQLPractice.pdb
